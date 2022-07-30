@@ -5,6 +5,8 @@ public class TC001 {
         //testing something
 
         // more testing done
-    }
+
+        //negative testing done
+        }
 
 }
