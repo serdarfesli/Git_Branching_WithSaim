@@ -5,4 +5,6 @@ public class TC002 {
     // writing smoke tests
 
     // more lines added. some testcases are planned
+
+    // this is 3rd commit dor tc 002
 }
